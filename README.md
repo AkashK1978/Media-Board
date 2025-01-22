@@ -3,7 +3,7 @@ In today's digital age, YouTube has become an essential platform for creators to
 That's where Media Board Analytics comes in - a powerful tool designed to help you analyze your YouTube channel and videos, and make data-driven decisions to grow your audience and increase your online presence.
 ![image alt](https://github.com/AkashK1978/Media-Board/blob/b308914a92b64363a746cf2357aec73f3b3f67bc/Home.png)
 ![image alt](https://github.com/AkashK1978/Media-Board/blob/b9340057f601a330b5add826080dd00f2c14647a/Channels.png)
-![image alt]()
+![image alt](https://github.com/AkashK1978/Media-Board/blob/86790b0a53becf6275017ff2f0b35f50cbaa8c27/View.png)
 ![image alt]()
 ![image alt]()
 
